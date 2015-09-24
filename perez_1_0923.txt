@@ -1,0 +1,9 @@
+-During the whole process of creating images, I was able to understand the way we would create images through
+ imagemagick. I have figured out how to make my images even more diverse through pango usage.
+
+-For loops are used to create more diverse images.For example you can set the for loop to change the 
+foreground and background colors. 
+
+-We might use sed to replace certain text and create images, then using for loops to to make it even more
+diverse.  
+
