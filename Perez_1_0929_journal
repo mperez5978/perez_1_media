@@ -1,0 +1,12 @@
+\First you must "convert -list font" which tells you all the fonts that is installed on the computer. Once you have 
+this information you might want to only get the font names, to do this you must do the same command
+("convert -list font"), but at the end add "|grep Font". Next thing to do is add all of the fonts and add them to
+a text file . Once you have this information, you're gonna wanna loop through all the fonts you listed. The command
+to loop through all fonts is :
+
+for font in $(cat fonts,txt); do convert -background lightblue - fill blue -font "$font" -pointsize 64 label 
+:"Ninja Perez" "$font"_ninja.gif
+
+. To display the pictures that you just created do ;
+
+ for image in $(ls *gif);do display "$image"; done
