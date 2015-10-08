@@ -1,0 +1,3 @@
+We can use a gradient to create a background, or foreground, so that an image can be more diverse and colorful. 
+
+We can use loops to make different colored gradients and create multiple different colored images to create a gif.
