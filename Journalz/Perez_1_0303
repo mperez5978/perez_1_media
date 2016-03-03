@@ -1,0 +1,6 @@
+1.Finding a fractal program that would run  on the raspberry pi, this caused a decent amount of research.
+2.Getting internet onto the pi, this took forever due to the pi's settings and the fact that I know almost 
+nothing on Raspbian. Honestly I'm really thankful for everyone helping me to surpass that obstacle.
+3.Now the only challenge I have is having the pi run the fractal program decently, meaning that it will not
+freeze as often or take that long to load a fractal set. I've been thinking about downloading a different program
+that I have tried on the linux computer.	
