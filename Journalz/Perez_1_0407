@@ -1,0 +1,8 @@
+1. Raspberry pi is a very useful device, but it lacks a lot of hardware that allows the device to preform certain 
+tasks. For example when I got my fractal program to work on the pi the pi took some time to let the pi display the 
+images.
+2. It can be very difficult to get internet on the pi, I remember spending like 2-3 days trying to access the 
+internet, Mr.Davis and Austin eventually helped me on that. The annoying part is that the pi has trouble connecting 
+to the internet anyway.
+3. Fractal programs are not as popular as you might think they are, I had biggest problem finding a fractal program
+that would run on raspbian. Once I found one i was disapointed by the pi's preformence when I tried to run it.
